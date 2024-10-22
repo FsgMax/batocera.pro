@@ -1,6 +1,6 @@
 # batocera.pro
 <br><br><br><br>
-<b>This repo is scheduled for phase out and is not supported anymore</b><br>
+<b>This repo is scheduled for phase out and is not supported anymore by the creators. this is a backup fork</b><br>
 <br><br><br><br>
 <b><i>Unofficial Apps for Batocera x86_64 (AMD/Intel)</i></b><br>
 <br>
